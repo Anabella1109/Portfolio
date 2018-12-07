@@ -65,3 +65,16 @@ em{
     margin-top: 200px;
 
 }
+
+#about>p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    width: 160px;
+    display:inline-flex;
+    justify-content: space-around;
+    
+    
+}
+#circles{
+    display: inline-flex;
+}
