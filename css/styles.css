@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color:rgb(28, 36, 75);
    
 }
 input[type=text]{
@@ -88,14 +88,13 @@ em{
     
 }
 
-#about h1,#portfolio h1{
+#portfolio h1,#about h1{
     text-align: center;
-    margin-top:100px;
+    margin-top:30px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 60px;
-    
-    
 }
+
 #contact h1{
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -189,6 +188,6 @@ nav ul li a:hover{
 }
 #about,#portfolio{
     background-color: white;
-    margin-top:0px;
     height: 100%;
+    
 }
