@@ -88,9 +88,11 @@ em{
 
 #about,#portfolio{
     margin-top:20px;
+    height: 100%;
+    
 }
 
-.orderedList{
+.projects{
     display:flex;
     flex-direction:row;
     justify-content: space-around;
@@ -114,10 +116,26 @@ em{
 }
 .links a{
     text-decoration-line:none;
-    border:1px solid #f05050;
-    padding:10px;
-    background-color:rgba(230, 132, 132, 0.1);
+    padding:20px;
+    opacity:0.7;
+    background-color:rgba(132, 230, 230, 0.637);
+    margin-top:100px;
+    color: rgba(17, 22, 22, 0.637);
 }
 .links a:hover{
-    background-color:#f05050;
+    background-color:#5088f0;
+}
+
+.description{
+    margin-left:100px;
+    margin-top: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#last{
+    text-align: center;
+    font-size: 22px;
+    margin-top: 160px;
+    
+    
 }
