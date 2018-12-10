@@ -8,7 +8,7 @@ This webpage is a my landing page Portfolio. It is standalone webpage with infor
 * Connect to the internet
 * Open your browser
 * In your browser adress bar type the following
-* Anabella1109.github.io/Portfolio
+* http://Anabella1109.github.io/Portfolio
 * And there you have it
 
 ## Technologies Used
