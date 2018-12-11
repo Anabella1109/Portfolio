@@ -4,7 +4,7 @@
 ## Description
 This webpage is a my landing page Portfolio. It is standalone webpage with information about me  containing also links to some of the projects that I've worked on before and hosted through Github pages
 ## Setup/Installation Requirements
-#To access my portfoloio all you need to do is:
+# To access my portfoloio all you need to do is:
 * Connect to the internet
 * Open your browser
 * In your browser adress bar type the following
@@ -14,6 +14,10 @@ This webpage is a my landing page Portfolio. It is standalone webpage with infor
 ## Technologies Used
 * HTML for structuring
 * CSS for styling
+## Known bugs
+This webpage is not suitable for all screen sizes
+## To Do
+Add responsive design and media queries
 
 ### License
 [MIT](https://choosealicense.com/licenses/mit/)
