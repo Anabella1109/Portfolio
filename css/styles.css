@@ -43,7 +43,7 @@ input[type=submit]{
 #home{
     background-image:url("https://images.pexels.com/photos/234527/pexels-photo-234527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
     background-size: 100% 100%;
-    height:700px;
+    height:1000px;
     margin-bottom:10px;
     color: aliceblue;
     font-size:40px;
@@ -53,11 +53,12 @@ input[type=submit]{
 }
 
 em{
-    color: cornflowerblue;
+    /* color: cornflowerblue; */
+    /* font-family: 'Courgette', cursive; */
 }
 
-#about>div{
-    background-color: dodgerblue;
+#about>div>div{
+    /* background-color: dodgerblue; */
     border-radius: 50%;
     height: 130px;
     width: 130px;
@@ -94,9 +95,10 @@ em{
     
 }
 
-#portfolio h1,#about h1{
+#portfolio h1,#about h1, #skills h1{
     text-align: center;
-    margin-top:30px;
+    margin-top:10px;
+    padding-top: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 60px;
 }
@@ -104,7 +106,9 @@ em{
 #contact h1{
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 60px
+    font-size: 60px;
+    padding-top: 20px;
+    
 }
 
 .projects{
@@ -160,9 +164,9 @@ form{
 }
 
 img{
-    height:300px;
-    border-radius:50%;
-    float:left;
+    /* height:300px; */
+    /* border-radius:50%; */
+    /* float:left; */
 }
 nav{
     height: 90px;
@@ -193,10 +197,14 @@ nav ul li a{
 nav ul li a:hover{
     color:red;
 }
-#about,#portfolio{
+#about,#portfolio,#skills{
     background-color: white;
     height: 100%;
     
+}
+
+#abo{
+    margin-top: 10%;
 }
 
 
